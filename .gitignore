@@ -31,7 +31,9 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # env files (can opt-in for committing if needed)
+# .env.example is allowed to show the schema for the .env file
 .env*
+!.env.example
 
 # vercel
 .vercel

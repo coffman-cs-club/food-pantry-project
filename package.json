@@ -9,19 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@libsql/client": "^0.15.4",
+    "dotenv": "^16.5.0",
+    "drizzle-orm": "^0.42.0",
+    "next": "15.3.0",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0",
-    "next": "15.3.0"
+    "react-dom": "^19.1.0"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@eslint/eslintrc": "^3",
     "@types/node": "^22",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "postcss": "^8",
-    "tailwindcss": "^4.1.4",
+    "drizzle-kit": "^0.31.0",
     "eslint": "^9",
     "eslint-config-next": "15.3.0",
-    "@eslint/eslintrc": "^3"
+    "postcss": "^8",
+    "tailwindcss": "^4.1.4",
+    "typescript": "^5"
   }
 }
