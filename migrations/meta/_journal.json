@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1745273433013,
+      "tag": "0000_quiet_the_renegades",
+      "breakpoints": true
+    }
+  ]
+}
